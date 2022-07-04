@@ -1,2 +1,2 @@
 # fit-tracker
-FItness webapp designed to easily help with your gym progresswww
+FItness webapp designed to easily help with your gym progress
